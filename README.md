@@ -19,9 +19,9 @@
 
 ## Highlighted Projects
 
-- [Java Desktop Sales System](link_to_project)
-- [API with information on the 20 most anticipated games in 2024](link_to_project)
-- [React ToDoList](link_to_project)
+- [Java Desktop Sales System](https://github.com/JPDev-full/SistemaVendas)
+- [API with information on the 20 most anticipated games in 2024](https://github.com/JPDev-full/API_Games)
+- [React ToDoList](https://github.com/JPDev-full/ToDoList_React)
 
 ## Certifications and Additional Courses
 
